@@ -1,0 +1,98 @@
+{"verifies":[
+    {
+        "filepath" : "C:\\Program Files (x86)\\ezhelp\\server\\AltTab.exe",
+        "size" : "136464",
+        "cmpType" : "name+size"
+    },
+    {
+        "filepath" : "C:\\Program Files (x86)\\ezhelp\\server\\chat.bin",
+        "size" : "130427",
+        "cmpType" : "name+size"
+    },
+    {
+        "filepath" : "C:\\Program Files (x86)\\ezhelp\\server\\driver.bin",
+        "size" : "191582",
+        "cmpType" : "name+size"
+    },
+    {
+        "filepath" : "C:\\Program Files (x86)\\ezhelp\\server\\ezHelpClientManager.exe",
+        "size" : "518848",
+        "cmpType" : "name+size"
+    },
+    {
+        "filepath" : "C:\\Program Files (x86)\\ezhelp\\server\\ezHelpDownloader.exe",
+        "size" : "191968",
+        "cmpType" : "name+size"
+    },
+    {
+        "filepath" : "C:\\Program Files (x86)\\ezhelp\\server\\ezHelpServer.exe",
+        "size" : "1466048",
+        "cmpType" : "name+size"
+    },
+    {
+        "filepath" : "C:\\Program Files (x86)\\ezhelp\\server\\ezHelpServerLauncher.exe",
+        "size" : "174992",
+        "cmpType" : "name+size"
+    },
+    {
+        "filepath" : "C:\\Program Files (x86)\\ezhelp\\server\\NewWinFunc.dll",
+        "size" : "80320",
+        "cmpType" : "name+size"
+    },
+    {
+        "filepath" : "C:\\Program Files (x86)\\ezhelp\\server\\OpenSourceLicense.htm",
+        "size" : "40377",
+        "cmpType" : "name+size"
+    },
+    {
+        "filepath" : "C:\\Program Files (x86)\\ezhelp\\server\\portaudio_x86.dll",
+        "size" : "160768",
+        "cmpType" : "name+size"
+    },
+    {
+        "filepath" : "C:\\Program Files (x86)\\ezhelp\\server\\RemoteFServer.exe",
+        "size" : "715168",
+        "cmpType" : "name+size"
+    },
+    {
+        "filepath" : "C:\\Program Files (x86)\\ezhelp\\server\\RemoteK.txt",
+        "size" : "1206",
+        "cmpType" : "name+size"
+    },
+    {
+        "filepath" : "C:\\Program Files (x86)\\ezhelp\\server\\RemoteUtil.exe",
+        "size" : "207328",
+        "cmpType" : "name+size"
+    },
+    {
+        "filepath" : "C:\\Program Files (x86)\\ezhelp\\server\\RFLib.dll",
+        "size" : "207576",
+        "cmpType" : "name+size"
+    },
+    {
+        "filepath" : "C:\\Program Files (x86)\\ezhelp\\server\\sas.dll",
+        "size" : "8704",
+        "cmpType" : "name+size"
+    },
+    {
+        "filepath" : "C:\\Program Files (x86)\\ezhelp\\server\\screenhooks.dll",
+        "size" : "69904",
+        "cmpType" : "name+size"
+    },
+    {
+        "filepath" : "C:\\Program Files (x86)\\ezhelp\\server\\SoundModule.exe",
+        "size" : "641728",
+        "cmpType" : "name+size"
+    },
+    {
+        "filepath" : "C:\\Program Files (x86)\\ezhelp\\server\\version.ini",
+        "size" : "25",
+        "cmpType" : "name+size"
+    },
+    {
+        "filepath" : "C:\\Program Files (x86)\\ezhelp\\server\\Win10ScreenCapture.dll",
+        "size" : "656352",
+        "cmpType" : "name+size"
+    },
+
+]}
